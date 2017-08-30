@@ -1,4 +1,5 @@
 FROM debian
+ENV TERM linux
 ARG DOWNLOAD_URL
 ARG SITE_KEY
 
